@@ -1,4 +1,5 @@
 .Box {
+    background-color: aqua;
     border: 1px solid black;
     border-radius: 1%;
     padding: 5px;
@@ -10,5 +11,4 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    align-items: center;
 }
